@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "label": "Employee Name",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1f54544",
+        "columns": null
+      },
+      "id": "Field_18bcyab",
+      "key": "employee_name",
+      "description": "Employee Name"
+    }
+  ],
+  "type": "default",
+  "id": "timeoff_request_form",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.12.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 9
+}

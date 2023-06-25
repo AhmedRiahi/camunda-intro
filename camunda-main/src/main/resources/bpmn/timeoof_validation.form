@@ -1,0 +1,49 @@
+{
+  "components": [
+    {
+      "label": "Employee name",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1yis4ue",
+        "columns": null
+      },
+      "id": "Field_1hqulvr",
+      "key": "employee_name",
+      "description": "Employee name"
+    },
+    {
+      "action": "submit",
+      "label": "Reject",
+      "type": "button",
+      "layout": {
+        "row": "Row_00cw7rd",
+        "columns": null
+      },
+      "id": "Field_1m91d8d",
+      "key": "field_0247u3g",
+      "properties": {
+        "key1": "value"
+      }
+    },
+    {
+      "action": "submit",
+      "label": "Validate",
+      "type": "button",
+      "layout": {
+        "row": "Row_00cw7rd",
+        "columns": null
+      },
+      "id": "Field_0goxl58",
+      "key": "field_04o79j4"
+    }
+  ],
+  "type": "default",
+  "id": "timeoff_validation",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.12.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 9
+}
